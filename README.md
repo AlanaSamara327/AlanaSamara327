@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Alana 👋
 
 - 🌱 Estou estudando HTML, CSS e JavaScript.
-- 📫 Contate-me no email: alana.sarama.br@gmail.com 
+- 📫 Contate-me no email: alana.samara.br@gmail.com 
 - 😄 Pronomes: ela/dela
 <div align="center">
   <a href="https://github.com/AlanaSamara327">
